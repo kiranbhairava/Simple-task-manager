@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "Learn SQL",
+    "description": "Learn it for scaling",
+    "priority": "medium",
+    "status": "pending",
+    "dueDate": "2026-01-07",
+    "dueTime": "14:50",
+    "assignee": "Kiran",
+    "category": "Technical",
+    "createdAt": "2026-01-06T14:51:05.226555",
+    "completedAt": null
+  }
+]
